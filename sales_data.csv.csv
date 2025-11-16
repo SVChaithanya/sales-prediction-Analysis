@@ -1,0 +1,201 @@
+order_id,date,product,quantity,price,discount,customer_region,category
+1,2023-04-13,Mouse,5,3114,5,North,Accessories
+2,2023-12-15,Keyboard,3,21552,27,North,Accessories
+3,2023-09-28,Laptop,4,46552,16,East,Accessories
+4,2023-04-17,Charger,1,45112,4,East,Accessories
+5,2023-03-13,Laptop,5,14597,4,South,Electronics
+6,2023-07-08,USB Cable,5,41755,5,Central,Accessories
+7,2023-01-21,Laptop,1,47159,2,West,Electronics
+8,2023-04-13,Keyboard,5,928,20,North,Electronics
+9,2023-05-02,Laptop,3,898,22,South,Electronics
+10,2023-08-03,Mouse,4,40154,4,South,Accessories
+11,2023-11-27,Mouse,1,47480,20,North,Electronics
+12,2023-03-29,Phone,4,14123,4,West,Accessories
+13,2023-04-10,Headphones,5,16979,9,South,Accessories
+14,2023-12-26,Monitor,5,7600,9,South,Accessories
+15,2023-06-01,Charger,1,24666,18,Central,Accessories
+16,2023-05-11,USB Cable,3,37139,16,West,Accessories
+17,2023-05-30,Laptop,2,4560,20,South,Electronics
+18,2023-11-05,Laptop,1,35470,13,West,Accessories
+19,2023-09-15,Keyboard,2,17301,8,North,Accessories
+20,2023-12-10,Headphones,2,32507,13,East,Electronics
+21,2023-10-21,Mouse,3,5686,0,South,Electronics
+22,2023-07-11,Charger,2,8535,18,Central,Accessories
+23,2023-10-04,Phone,2,21564,12,North,Accessories
+24,2023-06-10,Mouse,3,37459,12,West,Accessories
+25,2023-11-10,USB Cable,2,23776,3,North,Accessories
+26,2023-01-22,Headphones,2,31867,29,South,Accessories
+27,2023-09-10,USB Cable,2,11330,0,West,Electronics
+28,2023-08-24,Monitor,1,22172,16,East,Accessories
+29,2023-12-11,Phone,1,40619,7,North,Electronics
+30,2023-02-18,Monitor,1,1367,1,South,Electronics
+31,2023-02-28,Keyboard,3,27392,27,Central,Electronics
+32,2023-06-19,USB Cable,5,1262,7,West,Electronics
+33,2023-07-07,Keyboard,2,18740,6,North,Accessories
+34,2023-09-28,Laptop,2,24444,25,North,Electronics
+35,2023-07-09,Monitor,3,21745,25,East,Accessories
+36,2023-06-24,Headphones,2,21889,1,East,Accessories
+37,2023-02-20,USB Cable,1,11374,21,Central,Electronics
+38,2023-12-30,Charger,5,23125,21,Central,Accessories
+39,2023-02-24,Phone,4,37697,2,South,Electronics
+40,2023-09-01,Mouse,2,9548,26,South,Electronics
+41,2023-11-16,Headphones,1,23914,17,Central,Accessories
+42,2023-05-11,Headphones,4,38302,11,Central,Electronics
+43,2023-11-03,Keyboard,5,9124,0,West,Accessories
+44,2023-05-15,Monitor,4,37298,21,East,Electronics
+45,2023-01-21,USB Cable,1,24594,11,South,Electronics
+46,2023-11-25,USB Cable,4,7001,4,East,Accessories
+47,2023-06-16,Laptop,3,37814,29,East,Accessories
+48,2023-10-01,Laptop,4,6931,29,Central,Electronics
+49,2023-03-30,Phone,2,48336,26,West,Accessories
+50,2023-11-12,Keyboard,2,23825,24,North,Electronics
+51,2023-01-14,Headphones,3,17537,16,West,Electronics
+52,2023-08-30,USB Cable,1,35507,15,West,Electronics
+53,2023-09-22,Charger,2,7256,14,East,Accessories
+54,2023-12-12,Keyboard,5,11716,22,West,Accessories
+55,2023-02-22,Phone,2,44461,14,South,Accessories
+56,2023-12-06,Phone,2,1742,4,East,Accessories
+57,2023-04-02,Keyboard,1,21877,20,South,Electronics
+58,2023-09-21,Phone,4,46932,13,North,Accessories
+59,2023-02-04,Keyboard,2,39281,1,East,Accessories
+60,2023-07-25,Mouse,3,27769,10,North,Accessories
+61,2023-03-22,Keyboard,4,23522,18,East,Accessories
+62,2023-02-19,Monitor,5,19265,6,Central,Electronics
+63,2023-12-26,Keyboard,1,18124,5,West,Accessories
+64,2023-01-02,Phone,5,22756,27,Central,Accessories
+65,2023-02-23,USB Cable,4,27162,1,North,Accessories
+66,2023-04-16,Monitor,4,28495,5,West,Electronics
+67,2023-09-17,Phone,4,14007,17,East,Accessories
+68,2023-11-06,Laptop,5,42548,1,West,Accessories
+69,2023-07-10,Laptop,4,26632,17,South,Accessories
+70,2023-08-06,USB Cable,5,17949,29,West,Accessories
+71,2023-02-13,USB Cable,4,41659,14,South,Electronics
+72,2023-06-11,Monitor,3,26456,26,West,Electronics
+73,2023-07-21,Mouse,4,40462,18,South,Electronics
+74,2023-09-27,USB Cable,5,37280,1,North,Accessories
+75,2023-12-17,Laptop,2,1524,19,Central,Accessories
+76,2023-10-31,Keyboard,4,25931,24,East,Accessories
+77,2023-09-28,Phone,2,36109,5,West,Electronics
+78,2023-08-03,Laptop,3,24003,0,Central,Electronics
+79,2023-09-09,Laptop,1,20070,23,East,Accessories
+80,2023-07-09,Mouse,3,34778,14,East,Electronics
+81,2023-10-23,Monitor,4,6788,27,South,Accessories
+82,2023-08-01,Monitor,2,38269,29,North,Accessories
+83,2023-07-27,Headphones,2,26990,22,North,Accessories
+84,2023-08-25,Mouse,5,25489,9,Central,Electronics
+85,2023-12-04,Keyboard,2,28378,18,North,Accessories
+86,2023-02-22,Monitor,5,28910,16,West,Accessories
+87,2023-10-07,Phone,1,15685,4,North,Electronics
+88,2023-08-05,USB Cable,4,44682,28,Central,Electronics
+89,2023-09-09,Mouse,5,20852,3,North,Electronics
+90,2023-07-07,USB Cable,1,4948,9,West,Electronics
+91,2023-02-10,Laptop,2,21433,23,South,Electronics
+92,2023-06-06,Phone,2,9635,16,Central,Electronics
+93,2023-01-15,Phone,1,3909,9,South,Electronics
+94,2023-10-28,Laptop,2,30555,16,South,Accessories
+95,2023-03-06,Mouse,1,13316,27,South,Accessories
+96,2023-12-11,Laptop,5,25670,19,East,Electronics
+97,2023-11-23,USB Cable,5,42544,23,East,Electronics
+98,2023-01-09,Headphones,1,43118,4,South,Accessories
+99,2023-12-10,Phone,5,39498,1,Central,Accessories
+100,2023-05-09,Charger,5,43156,5,West,Electronics
+101,2023-05-16,Charger,5,14883,20,West,Electronics
+102,2023-03-04,USB Cable,3,704,1,North,Electronics
+103,2023-05-19,Keyboard,4,34182,12,Central,Accessories
+104,2023-03-22,Monitor,2,34499,29,East,Accessories
+105,2023-06-12,Laptop,3,28216,10,South,Accessories
+106,2023-10-16,Laptop,5,24160,10,North,Electronics
+107,2023-09-18,Keyboard,1,33791,15,West,Accessories
+108,2023-08-19,Keyboard,5,17512,10,East,Accessories
+109,2023-02-10,USB Cable,4,37997,18,East,Accessories
+110,2023-01-28,USB Cable,5,46396,14,South,Accessories
+111,2023-05-15,Keyboard,1,49485,24,West,Accessories
+112,2023-07-20,Phone,4,2305,22,Central,Accessories
+113,2023-11-24,USB Cable,5,36595,22,East,Accessories
+114,2023-09-25,Headphones,4,45940,15,South,Accessories
+115,2023-02-02,USB Cable,2,22900,10,Central,Electronics
+116,2023-02-17,Laptop,2,34820,21,West,Accessories
+117,2023-03-03,USB Cable,5,37878,15,East,Accessories
+118,2023-08-04,Phone,4,20759,7,Central,Accessories
+119,2023-10-20,Keyboard,1,27709,3,Central,Accessories
+120,2023-04-09,Laptop,5,28060,7,Central,Accessories
+121,2023-06-21,USB Cable,2,11203,3,East,Accessories
+122,2023-12-26,Phone,2,21932,23,East,Accessories
+123,2023-08-02,Headphones,5,26026,24,North,Electronics
+124,2023-02-04,USB Cable,4,30554,2,West,Accessories
+125,2023-08-15,Phone,2,14043,2,South,Accessories
+126,2023-04-11,Headphones,4,44672,26,Central,Electronics
+127,2023-05-11,Keyboard,2,48729,28,North,Accessories
+128,2023-09-14,USB Cable,2,6390,17,South,Accessories
+129,2023-01-05,Headphones,3,17840,28,North,Accessories
+130,2023-08-06,Laptop,2,38613,25,East,Electronics
+131,2023-09-12,Keyboard,1,42556,18,Central,Electronics
+132,2023-12-25,Laptop,5,44797,18,South,Accessories
+133,2023-10-10,Charger,5,41021,20,South,Accessories
+134,2023-07-26,Mouse,4,3530,4,South,Accessories
+135,2023-01-15,USB Cable,2,19287,17,South,Accessories
+136,2023-12-12,Headphones,1,41630,27,South,Electronics
+137,2023-02-11,Mouse,4,24704,9,North,Electronics
+138,2023-06-28,Mouse,3,7314,28,Central,Electronics
+139,2023-03-04,Headphones,4,13523,21,East,Accessories
+140,2023-12-18,Keyboard,4,34321,20,East,Accessories
+141,2023-08-19,USB Cable,2,11175,5,East,Electronics
+142,2023-08-29,Charger,3,11223,0,East,Electronics
+143,2023-02-21,Laptop,4,21647,4,North,Accessories
+144,2023-04-06,Phone,1,25133,8,West,Accessories
+145,2023-08-10,Laptop,1,24159,11,Central,Accessories
+146,2023-08-19,Phone,5,867,25,South,Accessories
+147,2023-08-25,Laptop,3,29903,13,West,Accessories
+148,2023-05-23,Headphones,3,9537,1,East,Accessories
+149,2023-06-20,Charger,5,46627,16,West,Accessories
+150,2023-01-29,USB Cable,4,36687,13,Central,Electronics
+151,2023-02-05,Phone,3,19329,25,South,Electronics
+152,2023-01-13,USB Cable,1,40451,12,South,Electronics
+153,2023-06-09,USB Cable,1,32121,26,Central,Electronics
+154,2023-11-23,USB Cable,2,33507,8,Central,Electronics
+155,2023-07-06,Monitor,3,27555,25,East,Accessories
+156,2023-08-31,Keyboard,4,37932,24,South,Accessories
+157,2023-03-27,Laptop,5,5035,14,West,Electronics
+158,2023-10-11,USB Cable,5,20359,24,North,Accessories
+159,2023-03-07,Laptop,4,39010,21,North,Accessories
+160,2023-06-19,USB Cable,2,47805,14,Central,Electronics
+161,2023-02-14,Phone,5,40280,23,East,Electronics
+162,2023-03-03,Keyboard,3,38288,29,North,Electronics
+163,2023-05-14,Keyboard,2,13416,10,South,Accessories
+164,2023-10-11,Headphones,3,35747,15,Central,Accessories
+165,2023-01-28,Monitor,1,31671,28,West,Electronics
+166,2023-04-18,Headphones,2,17508,16,Central,Accessories
+167,2023-02-13,Headphones,5,27732,25,West,Electronics
+168,2023-12-06,Headphones,2,34549,3,Central,Accessories
+169,2023-10-13,Headphones,2,45645,0,Central,Accessories
+170,2023-11-27,Headphones,2,5913,7,Central,Accessories
+171,2023-05-08,Charger,2,49607,16,West,Electronics
+172,2023-12-14,Keyboard,3,5004,2,West,Electronics
+173,2023-08-19,Headphones,1,10336,28,Central,Accessories
+174,2023-07-09,USB Cable,4,209,19,North,Accessories
+175,2023-08-13,Keyboard,2,19455,14,East,Accessories
+176,2023-10-10,Keyboard,5,23993,14,East,Electronics
+177,2023-05-01,Mouse,2,29748,23,East,Electronics
+178,2023-04-26,Charger,5,38092,21,West,Electronics
+179,2023-08-21,Headphones,3,1215,13,West,Accessories
+180,2023-09-16,Laptop,5,27912,25,North,Accessories
+181,2023-12-25,Phone,4,35161,27,East,Accessories
+182,2023-07-17,Monitor,1,8615,22,East,Accessories
+183,2023-05-17,USB Cable,5,46518,13,Central,Accessories
+184,2023-11-14,Laptop,5,47480,23,West,Accessories
+185,2023-06-14,Charger,1,24033,1,East,Accessories
+186,2023-08-13,Phone,4,4358,12,North,Accessories
+187,2023-11-03,Charger,2,20509,25,North,Accessories
+188,2023-08-22,USB Cable,5,7170,13,East,Accessories
+189,2023-06-21,Keyboard,1,7138,26,West,Accessories
+190,2023-06-01,Phone,3,21368,23,North,Electronics
+191,2023-11-11,Keyboard,1,46740,18,Central,Electronics
+192,2023-06-09,USB Cable,3,20584,6,North,Accessories
+193,2023-04-06,Laptop,4,18217,2,South,Accessories
+194,2023-08-21,USB Cable,2,10544,14,South,Accessories
+195,2023-06-29,Laptop,1,40234,22,West,Accessories
+196,2023-04-23,Phone,5,8902,13,East,Electronics
+197,2023-11-14,Phone,4,584,10,West,Electronics
+198,2023-02-21,Headphones,1,604,14,West,Accessories
+199,2023-09-25,Charger,5,41143,27,West,Accessories
+200,2023-10-22,Headphones,1,48126,12,West,Electronics
